@@ -1,0 +1,198 @@
+body {
+    font-family:"Roboto", sans-serif;
+    color: #434455;
+    font-size: 18px;
+    background-color: #fff;
+
+}
+ul {
+   list-style: none;
+}
+.page-nav .link-logo {
+    font-family: "Raleway", sans-serif;
+    color: #4D5AE5;
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 1.16;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase; 
+}
+.page-nav .web {
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #2E2F42;
+}
+.page-nav-navigation .link {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+}
+.page-nav-navigation .link:hover,
+.page-nav-navigation .link:focus {
+    color: #404BBF;
+}
+.adresses {
+    font-style: normal;
+}
+.adresses-nav .link-adres {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1;
+    color: #434455;
+    text-decoration: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+}
+.adresses-nav .link-adres:hover,
+.adresses-nav .link-adres:focus {
+    color: #404BBF;
+}
+.page-title {
+    background-color: #2E2F42;
+}
+.page-title .title {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+.page-title .reservation {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+}
+.page-title .reservation:hover,
+.page-title .reservation:focus {
+    background-color: #404BBF;
+}
+ .benefites-title .titles {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2E2F42;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+ }
+ .benefites-title .text {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+ }
+ .team-title {
+    background-color: #F4F4FD;
+ }
+ .team-title .title-team {
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.11;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+ }
+ .foto  {
+    background-color: #FFFFFF;
+ }
+ .foto .names {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+ }
+ .foto .jobs {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
+ .portfolio-title .title-port {
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    color: #2E2F42;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+ }
+ .card .apps {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+ }
+ .card .texts {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #434455;
+    letter-spacing: 0.02em;
+
+ }
+ .foot {
+    background-color: #2E2F42;
+ }
+ .foot .foot-logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    
+ }
+ .foot .foot-web {
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #F4F4FD;
+ }
+ .foot .foot-text {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+ }
+ 
+ .adresses-nav .link-adres

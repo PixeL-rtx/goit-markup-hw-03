@@ -5,9 +5,30 @@ body {
     background-color: #fff;
 
 }
+.container {
+   max-width: 1158px;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin: 0 auto;
+}
+p,h1,h2,h3,h4,h5,h6 {
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
 ul {
    list-style: none;
+   margin-top: 0;
+   margin-bottom: 0;
+   padding-left: 0;
 }
+/* header */
+
+.header {
+   padding-top: 24px;
+   padding-bottom: 24px;
+}
+
 .page-nav .link-logo {
     font-family: "Raleway", sans-serif;
     color: #4D5AE5;
@@ -58,8 +79,11 @@ ul {
 .adresses-nav .link-adres:focus {
     color: #404BBF;
 }
+/* section 1 */
 .page-title {
     background-color: #2E2F42;
+    padding: 188px 472px 292px;
+    
 }
 .page-title .title {
     font-family: "Roboto", sans-serif;
@@ -69,6 +93,8 @@ ul {
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
+    padding-bottom: 48px;
+    
 }
 .page-title .reservation {
     font-family: "Roboto", sans-serif;

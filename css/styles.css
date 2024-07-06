@@ -176,6 +176,8 @@ ul {
    padding: 0;
 
    white-space: nowrap;
+   clip-path: inset(100%);
+   clip: rect(0 0 0 0);
    overflow: hidden;
 }
 
@@ -238,6 +240,7 @@ ul {
  .cadrs {
    display: flex;
    gap: 24px;
+   padding: 32px 0;
  }
  .foto  {
     background-color: #FFFFFF;
@@ -247,10 +250,10 @@ ul {
      
  }
  .info h3 p {
-   padding: 32px 0;
-   margin-bottom: 8px;
-   text-align: center;
-   padding: 32px 0;
+    padding: 32px 0;
+    margin-bottom: 8px;
+    text-align: center;
+   
    
  }
  .foto .names {

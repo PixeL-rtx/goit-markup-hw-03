@@ -112,6 +112,12 @@ ul {
     color: #404BBF;
 }
 /* section 1 */
+.container {
+   max-width: 1158px;
+   margin: 0 auto;
+   padding: 0 15px;
+}
+
 .page-title {
     background-color: #2E2F42;
     min-width: 1158px;
@@ -196,6 +202,11 @@ ul {
     
  }
  /* < !-- Section 3 --> */
+ .container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+ }
  .team-title {
     background-color: #F4F4FD;
     padding-top: 232px;
@@ -251,6 +262,11 @@ ul {
     padding-bottom: 32px;
  }
  /* < !-- Section 4 --> */
+ .container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+ }
  .portfolio-title {
     background-color: #fff;
     
@@ -303,6 +319,11 @@ ul {
 
  }
  /* footer  */
+ .container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+ }
  .foot {
     background-color: #2E2F42;
     padding: 100px;
